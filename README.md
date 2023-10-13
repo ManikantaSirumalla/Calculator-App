@@ -15,6 +15,9 @@ This README provides an overview of the Calculator app, its features, and how it
 ## Introduction
 
 The Calculator app is a simple yet powerful tool that allows users to perform basic arithmetic operations. It was developed using the SwiftUI framework and follows the MVC architecture to ensure clean separation of concerns and maintainability.
+![Screenshot 1](/Users/bunnysana/Desktop/Simulator\ Screenshot\ -\ iPhone\ 15\ Pro\ Max\ -\ 2023-10-13\ at\ 17.56.59.png)
+![Screenshot 2](https://example.com/screenshot2.png)
+
 
 ## Features
 
