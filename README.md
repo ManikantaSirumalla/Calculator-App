@@ -35,7 +35,7 @@ To run and explore the Calculator app on your local machine, follow these steps:
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/ManikantaSirumalla/calculator-app.git
    cd calculator-app
    ```
 
